@@ -1,0 +1,14 @@
+{
+  "name": "apply-record-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "repl": "psc-package repl"
+  },
+  "author": "Vasiliy Yorkin <vasiliy.yorkin@gmail.com> (https://github.com/vyorkin)",
+  "license": "WTFPL",
+  "devDependencies": {
+    "purescript": "^0.11.7"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "apply-record-example",
+  "set": "cubeplan-8",
+  "source": "https://github.com/vyorkin-personal/package-sets.git",
+  "depends": [
+    "record-show",
+    "psci-support",
+    "typelevel-prelude",
+    "functions",
+    "prelude"
+  ]
+}
