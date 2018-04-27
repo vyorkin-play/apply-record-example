@@ -48,8 +48,7 @@ instance applyRowListCons
 
 foreign import applyRecordImpl
   ∷ ∀ io i o
-  . ApplyRecord io i o
-  ⇒ Fn2 (Record io) (Record i) (Record o)
+  . Fn2 (Record io) (Record i) (Record o)
 
 applyRecord
   ∷ ∀ io i o
